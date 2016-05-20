@@ -1,0 +1,24 @@
+{
+  "name": "hapi-requesting-json",
+  "version": "1.0.0",
+  "description": "Adds a method to see if the client is requesting JSON, commonly used to detect an AJAX request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Votion/hapi-requesting-json.git"
+  },
+  "keywords": [
+    "hapi",
+    "json",
+    "accepts"
+  ],
+  "author": "Seamus P. H. Leahy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Votion/hapi-requesting-json/issues"
+  },
+  "homepage": "https://github.com/Votion/hapi-requesting-json#readme"
+}
